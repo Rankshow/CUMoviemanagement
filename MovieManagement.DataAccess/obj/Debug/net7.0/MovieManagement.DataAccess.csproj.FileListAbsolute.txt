@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\CUMoviemanagement\MovieManagement.DataAccess\bin\Debug\net7.0\MovieManagement.DataAccess.deps.json
+C:\Users\User\source\repos\CUMoviemanagement\MovieManagement.DataAccess\bin\Debug\net7.0\MovieManagement.DataAccess.runtimeconfig.json
+C:\Users\User\source\repos\CUMoviemanagement\MovieManagement.DataAccess\bin\Debug\net7.0\MovieManagement.DataAccess.dll
+C:\Users\User\source\repos\CUMoviemanagement\MovieManagement.DataAccess\bin\Debug\net7.0\MovieManagement.DataAccess.pdb
+C:\Users\User\source\repos\CUMoviemanagement\MovieManagement.DataAccess\bin\Debug\net7.0\MovieManagement.Domain.dll
+C:\Users\User\source\repos\CUMoviemanagement\MovieManagement.DataAccess\bin\Debug\net7.0\MovieManagement.Domain.pdb
+C:\Users\User\source\repos\CUMoviemanagement\MovieManagement.DataAccess\obj\Debug\net7.0\MovieManagement.DataAccess.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CUMoviemanagement\MovieManagement.DataAccess\obj\Debug\net7.0\MovieManagement.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\CUMoviemanagement\MovieManagement.DataAccess\obj\Debug\net7.0\MovieManagement.DataAccess.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CUMoviemanagement\MovieManagement.DataAccess\obj\Debug\net7.0\MovieManagement.DataAccess.AssemblyInfo.cs
+C:\Users\User\source\repos\CUMoviemanagement\MovieManagement.DataAccess\obj\Debug\net7.0\MovieManagement.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CUMoviemanagement\MovieManagement.DataAccess\obj\Debug\net7.0\MovieMan.234B8947.Up2Date
+C:\Users\User\source\repos\CUMoviemanagement\MovieManagement.DataAccess\obj\Debug\net7.0\MovieManagement.DataAccess.dll
+C:\Users\User\source\repos\CUMoviemanagement\MovieManagement.DataAccess\obj\Debug\net7.0\refint\MovieManagement.DataAccess.dll
+C:\Users\User\source\repos\CUMoviemanagement\MovieManagement.DataAccess\obj\Debug\net7.0\MovieManagement.DataAccess.pdb
+C:\Users\User\source\repos\CUMoviemanagement\MovieManagement.DataAccess\obj\Debug\net7.0\MovieManagement.DataAccess.genruntimeconfig.cache
+C:\Users\User\source\repos\CUMoviemanagement\MovieManagement.DataAccess\obj\Debug\net7.0\ref\MovieManagement.DataAccess.dll

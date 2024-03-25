@@ -1,0 +1,54 @@
+[
+  {
+    "ContainingType": "MovieManagement.API.Controllers.ActorController",
+    "Method": "Get",
+    "RelativePath": "api/actors",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MovieManagement.API.Controllers.ActorController",
+    "Method": "Get",
+    "RelativePath": "api/actors/{actorId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "actorId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MovieManagement.API.Controllers.ActorController",
+    "Method": "Remove",
+    "RelativePath": "api/actors/actor/{actorId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "actorId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MovieManagement.API.Controllers.ActorController",
+    "Method": "GetWithMovies",
+    "RelativePath": "api/actors/movies",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
